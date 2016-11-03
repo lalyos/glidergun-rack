@@ -1,5 +1,8 @@
-latest linux_amd64 https://github.com/docker/machine/releases/download/v0.1.0/docker-machine_linux-amd64 9ea84a5efb920722b04d7ab437a907a5
-latest darwin_amd64 https://github.com/docker/machine/releases/download/v0.1.0/docker-machine_darwin-amd64 02ea895f77bcce7ed7eff031a697bdfc
+latest linux_amd64 https://github.com/docker/machine/releases/download/v0.8.2/docker-machine-Linux-x86_64 8f5de36e01e8f160e91681cbc8355a64
+latest darwin_amd64 https://github.com/docker/machine/releases/download/v0.8.2/docker-machine-Darwin-x86_64 e513ecc19eadf35be997aa2796da87d0
+
+0.8.2 linux_amd64 https://github.com/docker/machine/releases/download/v0.8.2/docker-machine-Linux-x86_64 8f5de36e01e8f160e91681cbc8355a64
+0.8.2 darwin_amd64 https://github.com/docker/machine/releases/download/v0.8.2/docker-machine-Darwin-x86_64 e513ecc19eadf35be997aa2796da87d0
 
 0.1.0 linux_amd64 https://github.com/docker/machine/releases/download/v0.1.0/docker-machine_linux-amd64 9ea84a5efb920722b04d7ab437a907a5
 0.1.0 darwin_amd64 https://github.com/docker/machine/releases/download/v0.1.0/docker-machine_darwin-amd64 02ea895f77bcce7ed7eff031a697bdfc
