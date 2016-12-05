@@ -1,5 +1,7 @@
 # install: chmod +x docker-machine-driver-xhyve && sudo chown root:wheel docker-machine-driver-xhyve && sudo chmod u+s docker-machine-driver-xhyve && mv docker-machine-driver-xhyve $PREFIX/bin
-latest darwin_amd64 https://github.com/sequenceiq/docker-machine-driver-xhyve/releases/download/v0.2.3/docker-machine-driver-xhyve 7d71276d636b8a1a8793535089c1dd4a
+latest darwin_amd64 https://github.com/zchee/docker-machine-driver-xhyve/releases/download/v0.3.1/docker-machine-driver-xhyve 02e0f380c27c73df7d13294f6359cf3a
 
-0.3.2 darwin_amd64 https://github.com/sequenceiq/docker-machine-driver-xhyve/releases/download/v0.2.3/docker-machine-driver-xhyve.tgz 145d6ecd88f4943424a2bdd1d8982d1f
+0.3.1 darwin_amd64 https://github.com/zchee/docker-machine-driver-xhyve/releases/download/v0.3.1/docker-machine-driver-xhyve 02e0f380c27c73df7d13294f6359cf3a
+0.3.0 darwin_amd64 https://github.com/zchee/docker-machine-driver-xhyve/releases/download/v0.3.0/docker-machine-driver-xhyve e88311ce885cf159e031616e9ff68ec6
+0.2.3 darwin_amd64 https://github.com/sequenceiq/docker-machine-driver-xhyve/releases/download/v0.2.3/docker-machine-driver-xhyve 7d71276d636b8a1a8793535089c1dd4a
 
