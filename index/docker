@@ -1,3 +1,4 @@
+# install: mv docker/docker $PREFIX/bin
 latest darwin_amd64 https://get.docker.com/builds/Darwin/x86_64/docker-1.12.3.tgz b6ea8bc70efacaa8fdf49cdb88451f8f
 
 1.12.3 darwin_amd64 https://get.docker.com/builds/Darwin/x86_64/docker-1.12.3.tgz b6ea8bc70efacaa8fdf49cdb88451f8f
