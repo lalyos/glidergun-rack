@@ -1,5 +1,6 @@
-latest linux_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/0.3.1_linux_amd64.tar.gz 9d1ead73e678fa2f51a70a933b0bf017
-latest darwin_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/0.3.1_darwin_amd64.zip 9d1ead73e678fa2f51a70a933b0bf017
+# install: mv lego/lego $PREFIX/bin
+latest linux_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/lego_linux_amd64.tar.xz 62b979af2922622667f9e979101ff384
+latest darwin_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/lego_darwin_amd64.zip 9333f164d2f98fb7eb3086159619ef0e
 
-0.3.1 linux_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/0.3.1_linux_amd64.tar.gz 9d1ead73e678fa2f51a70a933b0bf017
-0.3.1 darwin_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/0.3.1_darwin_amd64.zip 9d1ead73e678fa2f51a70a933b0bf017
+0.3.1 linux_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/lego_linux_amd64.tar.xz 62b979af2922622667f9e979101ff384
+0.3.1 darwin_amd64 https://github.com/xenolf/lego/releases/download/v0.3.1/lego_darwin_amd64.zip 9333f164d2f98fb7eb3086159619ef0e
